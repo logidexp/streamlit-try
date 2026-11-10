@@ -1,0 +1,7 @@
+facility,power_used_mw,power_capacity_mw,cooling_used_mw,cooling_capacity_mw,racks_used,racks_capacity,annual_growth_pct,expansion_power_mw,expansion_cooling_mw,expansion_racks
+Alder Creek,8.4,10,7.2,10,670,900,12,2,2,150
+Birch Harbor,5.5,8,6.5,7,490,700,9,1,2,100
+Cedar Ridge,11,15,10.8,15,1060,1150,14,3,3,250
+Elm Valley,4.1,7,4,7,370,650,6,1,1,80
+Maple Crossing,9,12,8.6,11,720,950,11,2,2,120
+Willow Point,6.3,8,5.2,8,510,720,8,2,1,100
