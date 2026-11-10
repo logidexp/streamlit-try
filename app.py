@@ -69,7 +69,7 @@ st.set_page_config(
 )
 
 st.title("Live Data Center Monitoring")
-st.caption("Synthetic Data — Demonstration Only")
+st.caption("Synthetic Data only for Demonstration")
 
 if "history" not in st.session_state:
     st.session_state.history = pd.DataFrame(
